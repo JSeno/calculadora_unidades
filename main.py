@@ -1,7 +1,6 @@
 # Importando a biblioteca tkinter
 from tkinter import *  # Utilizando o * para importar todos os módulos da biblioteca tkinter
-from tkinter import ttk
-from turtle import width  # A biblioteca ttk é uma biblioteca para criar widgets, como botões, menus, etc.
+from tkinter import ttk # A biblioteca ttk é uma biblioteca para criar widgets, como botões, menus, etc.
 
 # Importando Pillow
 from PIL import Image, ImageTk
